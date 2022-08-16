@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on web development<br>🌱 I’m currently learning machine learning<br>💬 Ask me about python
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /></br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/munseer_mujeeb) 
