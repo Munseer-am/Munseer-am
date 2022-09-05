@@ -22,4 +22,4 @@
 <!--<img src="https://munseer.pythonanywhere.com/api/">-->
 
 ### 😂 Random Dev Meme
-<img src="https://munseer.pythonanywhere.com/api/"  width="512px"/>
+<img src=""  width="512px"/>
