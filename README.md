@@ -22,6 +22,6 @@
 <img src="https://munseer.pythonanywhere.com/meme/"  width="512px"/>
 
 ---
-![](https://visitcount.itsvg.in/api?id=Munseer-am&icon=0&color=0)]
+<!-- ![](https://visitcount.itsvg.in/api?id=Munseer-am&icon=0&color=0)] -->
 
 <!-- <img src="https://random-memer.herokuapp.com/"> -->
