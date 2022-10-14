@@ -26,5 +26,5 @@
 
 <!-- <img src="https://random-memer.herokuapp.com/"> -->
 <!-- ![()] -->
-[![](http://4whav9.deta.dev/count?id=Munseer-am)]
+[![](https://munseer.pythonanywhere.com/counter?id=Munseer-am)](https://munseer.pythonanywhere.com/)
 
