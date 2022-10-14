@@ -25,5 +25,5 @@
 <!-- ![](https://visitcount.itsvg.in/api?id=Munseer-am&icon=0&color=0)] -->
 
 <!-- <img src="https://random-memer.herokuapp.com/"> -->
-![](https://4whav9.deta.dev/count?id=Munseer-am)
+![](http://4whav9.deta.dev/count?id=Munseer-am)
 
