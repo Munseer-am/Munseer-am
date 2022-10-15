@@ -1,3 +1,5 @@
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Munseer A M</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on web development<br>🌱 I’m currently learning machine learning<br>💬 Ask me about python
 
