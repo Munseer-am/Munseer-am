@@ -25,6 +25,5 @@
 <a href="https://munseer.pythonanywhere.com"><img src="https://munseer.pythonanywhere.com/meme/"  width="512px"/></a>
 
 ---
-<!-- ![](https://visitcount.itsvg.in/api?id=Munseer-am&icon=0&color=0)] -->
 
 [![](https://visitcount.itsvg.in/api?id=Munseer-am&label=Profile-Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
