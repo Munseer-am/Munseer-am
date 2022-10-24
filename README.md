@@ -21,7 +21,7 @@
 
 
 
-### 😂 Random Dev Meme
+### <img src = "https://acegif.com/wp-content/uploads/gif/laughing-emoji-46.gif" width = 32px height=32px> Random Dev Meme
 <a href="https://munseer.pythonanywhere.com"><img src="https://munseer.pythonanywhere.com/meme/"  width="512px"/></a>
 
 ---
