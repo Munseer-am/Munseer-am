@@ -21,7 +21,7 @@
 
 
 
-### <img src = "https://www.pngitem.com/pimgs/m/506-5069742_crying-laughing-emoji-gif-meme-hd-png-download.png" width = 32px height=32px> Random Dev Meme
+### 😂 Random Dev Meme
 <a href="https://munseer.pythonanywhere.com"><img src="https://munseer.pythonanywhere.com/meme/"  width="512px"/></a>
 
 ---
