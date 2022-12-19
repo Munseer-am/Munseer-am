@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Munseer-am&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Munseer-am&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Munseer-am&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://github.com/Munseer-am/Munseer-am"><img alt="Munseer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Munseer-am&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!--<a href="https://github.com/Munseer-am/Munseer-am"><img alt="Munseer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Munseer-am&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
