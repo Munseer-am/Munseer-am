@@ -17,7 +17,8 @@
 <!--<a href="https://github.com/Munseer-am/Munseer-am"><img alt="Munseer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Munseer-am&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)
+<!--![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)-->
+![](https://munseer.pythonanywhere.com/dev-quote)
 
 
 ### 😂 Random Dev Meme
