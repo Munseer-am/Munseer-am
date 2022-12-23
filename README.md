@@ -18,8 +18,8 @@
 
 ### ✍️ Random Dev Quote
 <!--![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)-->
-![](https://munseer.pythonanywhere.com/dev-quote)
 
+![](https://munseer.pythonanywhere.com/dev-quote)
 
 ### 😂 Random Dev Meme
 <a href="https://munseer.pythonanywhere.com"><img src="https://munseer.pythonanywhere.com/meme/"  width="512px"/></a>
