@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Munseer-am&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://munseer.pythonanywhere.com/meme" width="512px"/>
+<a href="https://munseer.pythonanywhere.com/"><img src="https://munseer.pythonanywhere.com/meme" width="512px"/></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Munseer-am&icon=4&color=0)](https://visitcount.itsvg.in)
